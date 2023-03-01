@@ -1,0 +1,10 @@
+C:\Users\Sherwin\source\repos\RomanoLE2\RomanoBlogDB\bin\Debug\RomanoBlogDB.dacpac
+C:\Users\Sherwin\source\repos\RomanoLE2\RomanoBlogDB\bin\Debug\RomanoBlogDB.dll
+C:\Users\Sherwin\source\repos\RomanoLE2\RomanoBlogDB\bin\Debug\RomanoBlogDB.pdb
+C:\Users\Sherwin\source\repos\RomanoLE2\RomanoBlogDB\obj\Debug\RomanoBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Sherwin\source\repos\RomanoLE2\RomanoBlogDB\obj\Debug\Model.xml
+C:\Users\Sherwin\source\repos\RomanoLE2\RomanoBlogDB\obj\Debug\refactor.xml
+C:\Users\Sherwin\source\repos\RomanoLE2\RomanoBlogDB\obj\Debug\postdeploy.sql
+C:\Users\Sherwin\source\repos\RomanoLE2\RomanoBlogDB\obj\Debug\predeploy.sql
+C:\Users\Sherwin\source\repos\RomanoLE2\RomanoBlogDB\obj\Debug\RomanoBlogDB.dll
+C:\Users\Sherwin\source\repos\RomanoLE2\RomanoBlogDB\obj\Debug\RomanoBlogDB.pdb
